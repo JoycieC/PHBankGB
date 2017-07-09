@@ -39,7 +39,7 @@ static const u64 pokemonTitleIDs[] = {
 	0x0004000000171E00, ///< Pokémon Yellow	(EUR) (IT)
 	0x0004000000000000, ///< Pokémon Gold (FREE) (EN)
 	0x0004000000000000, ///< Pokémon Silver (FREE) (EN)
-	0x0004000000000000, ///< Pokémon Crystal (FREE) (EN)
+	0x00040000008D9200, ///< Pokémon Crystal (FREE) (EN)
 
 	
 	0x0000000000000000,	///< Not Pokémon
